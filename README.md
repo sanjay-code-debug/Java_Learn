@@ -9,7 +9,7 @@ JAVA
 ![Java Founder](https://user-images.githubusercontent.com/78407424/130847933-7d5d01c2-6c67-492c-99dd-e45e182d4da4.jpg)
 
      Oops 
-         - Class       - blue print of a class
+         - Class       - blue print of a Object
          
                                         - Block
                                              - static
